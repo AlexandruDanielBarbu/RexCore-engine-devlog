@@ -1,4 +1,4 @@
-# Chapter 0 - Uneasy Beginnings
+<!-- # Chapter 0 - Uneasy Beginnings
 
 ## Motivation
 
@@ -14,4 +14,4 @@ Cmake
         - Turns out i forgot to update main.cpp so cmake had nothing to build, everything was already built
     - after successfully building my project, running it resulted in a bunch of error
         - turns out i compiled for g++ not visual studio compiler mvc something.
-    - executable now runs correctly
+    - executable now runs correctly -->
